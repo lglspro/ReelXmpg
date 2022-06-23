@@ -1,7 +1,7 @@
 # ReelXmpg
 Experimental implementation. Beware.
 # Introduction
-ReelXmpg 
+ReelXmpg continues.
 # Contents
 # Installation
 # Acknoweledgements
